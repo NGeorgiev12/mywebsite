@@ -1,0 +1,75 @@
+.Titles {
+	text-align:center;
+	font-family:italic;
+}
+#Slogan {
+	text-align:center;
+	font-family:italic;
+}
+#PhonePicture {
+	float:left;
+	width:400px;
+	height:300px
+}
+#FirstIndexParagraph {
+	padding:40px;
+}
+#FoodDeliveryPicture {
+	float:right;
+	width:600px;
+	height:420px;
+}
+#SecondIndexParagraph {
+	text-align:center;
+}
+#PictureOfPeople {
+	float:left;
+	width:600px;
+	height:320px;
+}
+#FirstAboutUsParagraph {
+	padding:10px;
+}
+`		#DeliveryGuy {
+	float:right;
+	width:600px;
+	height:320px;
+}
+#ThStyle {
+	background-color:white; 
+	background-size:cover; 
+	color:black;
+	background-attachment:fixed;
+}
+#Td1Style {
+	background-color:white; 
+	background-size:cover; 
+	color:black; 
+}
+#Td2Style {
+	background-color:white; 
+	background-size:cover; 
+	color:black; 
+}
+#Td3Style {
+	background-color:white; 
+	background-size:cover; 
+	color:black; 
+}
+#Td4Style {
+	background-color:white; 
+	background-size:cover; 
+	color:black; 
+}
+#CareersTitle {
+	text-align:center;
+	font-family:italic;
+}
+#FoodDeliveryGuy1 {
+	float:right;
+	width:600px;
+	height:600px;
+}
+.MeaningfullTitle {
+	text-align:center
+}
